@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sUY29uzayfogsrujiNqjc5D1V2KQKiYbvr/02CPM7mZFFg4estxUB6xNmgz4naCpltyOtbseRMKmEv2AsuvVCA==",
+  "dgSpecHash": "QII4c70SLdgJCYl2/QC7kahNVaXqCI6X+kWoxi1VG+iaKL0IpPnsTc58bHxXD1mFnvDVZ3eI8yPb44TsRQ5SXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\miniy\\OneDrive\\Escritorio\\Fujifilm\\Proyecto\\FujifilmWebAPITest\\FujifilmWebAPITest\\FujifilmWebAPITest.csproj",
+  "projectFilePath": "C:\\Users\\miniy\\OneDrive\\Documentos\\GitHub\\Fujifilm\\FujifilmWebAPITest\\FujifilmWebAPITest\\FujifilmWebAPITest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miniy\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\miniy\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

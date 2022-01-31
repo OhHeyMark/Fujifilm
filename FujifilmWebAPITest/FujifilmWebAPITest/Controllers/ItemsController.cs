@@ -22,7 +22,8 @@ namespace FujifilmWebAPITest.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Item>>> GetItem()
         {
-            return await _context.Item.ToListAsync();
+            
+            return await _context.Item.OrderBy(e => e.Code).ToListAsync();
         }
 
         [HttpGet("{id}")]

@@ -8481,11 +8481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miniy\\OneDrive\\Escritorio\\Fujifilm\\Proyecto\\FujifilmWebAPITest\\FujifilmWebAPITest\\FujifilmWebAPITest.csproj",
+      "projectUniqueName": "C:\\Users\\miniy\\OneDrive\\Documentos\\GitHub\\Fujifilm\\FujifilmWebAPITest\\FujifilmWebAPITest\\FujifilmWebAPITest.csproj",
       "projectName": "FujifilmWebAPITest",
-      "projectPath": "C:\\Users\\miniy\\OneDrive\\Escritorio\\Fujifilm\\Proyecto\\FujifilmWebAPITest\\FujifilmWebAPITest\\FujifilmWebAPITest.csproj",
+      "projectPath": "C:\\Users\\miniy\\OneDrive\\Documentos\\GitHub\\Fujifilm\\FujifilmWebAPITest\\FujifilmWebAPITest\\FujifilmWebAPITest.csproj",
       "packagesPath": "C:\\Users\\miniy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miniy\\OneDrive\\Escritorio\\Fujifilm\\Proyecto\\FujifilmWebAPITest\\FujifilmWebAPITest\\obj\\",
+      "outputPath": "C:\\Users\\miniy\\OneDrive\\Documentos\\GitHub\\Fujifilm\\FujifilmWebAPITest\\FujifilmWebAPITest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

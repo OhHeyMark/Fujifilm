@@ -43,6 +43,12 @@ namespace FujifilmWebAPITest
 
             app.UseHttpsRedirection();
 
+
+            app.UseCors(x => x 
+            .AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader());
+
             app.UseRouting();
 
             app.UseAuthorization();
